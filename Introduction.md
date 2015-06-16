@@ -1,0 +1,3 @@
+Google seems to be leaving some loose ends in certain services. Many problems are expressed in Google Groups and reported to Google but these problems aren't (publicly) tracked and categorized. This project is created to fill that void.
+
+The idea started in the [Google Blogoscoped forum](http://blog.outer-court.com/forum/77995.html) where I discuss the problem. And this project was subsequently announced [on the front page of the same site](http://blog.outer-court.com/archive/2006-12-19.html#n51), which also links to the corresponding discussion.
